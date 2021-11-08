@@ -3,10 +3,11 @@
 **About me**
 
 -I'm an economics student interested in programming.
+-I've had the opportunity to learn <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4"></code> during my studies and am now expanding my skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
-I mostly work with <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4"></code>
+
 
 
 <!--
