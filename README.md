@@ -1,6 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
+### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true&theme=radical)
+##About me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
 
 
