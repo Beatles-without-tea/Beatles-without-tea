@@ -1,7 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatles-without-tea&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatles-without-tea&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
