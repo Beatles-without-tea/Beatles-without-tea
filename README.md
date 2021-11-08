@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
-<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+### Hey there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
