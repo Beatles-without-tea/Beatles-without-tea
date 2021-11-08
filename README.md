@@ -1,11 +1,13 @@
 ### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
-##About me
+**About me**
+I'm an economics student interested in programming.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4"></code>
 
-
+https://avatars.githubusercontent.com/u/1525981?s=280&v=4
 <!--
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
