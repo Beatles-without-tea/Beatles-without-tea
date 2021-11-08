@@ -1,4 +1,4 @@
-### Hi there <img src=https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width="30px">
+### Hi there <img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width="30px">
 
 
 <!--
