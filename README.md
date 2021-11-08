@@ -1,7 +1,8 @@
 ### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
 **About me**
-I'm an economics student interested in programming.
+
+-I'm an economics student interested in programming.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
