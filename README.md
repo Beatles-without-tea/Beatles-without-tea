@@ -8,7 +8,8 @@ I was introduced to python during my studies and have been expanding my skills e
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
 **Languages**
-<code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4"></code>
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
 
 <!--
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
