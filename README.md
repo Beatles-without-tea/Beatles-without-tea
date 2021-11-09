@@ -7,7 +7,7 @@ I was introduced to python during my studies and have been expanding my skills e
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 
-**Languages**
+**Languages/Tools**
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" ><img	src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 
