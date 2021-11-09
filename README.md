@@ -1,6 +1,6 @@
 ### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">
 
-**About me** <img	src="https://img.shields.io/github/followers/{beatles-without-tea}.svg?style=social&label=Follow&maxAge=2592000">
+**About me** <img	src="https://img.shields.io/github/followers/{Beatles-without-tea}.svg?style=social&label=Follow&maxAge=2592000">
 
 I'm an economics student interested in programming.
 I was introduced to python during my studies and have been expanding my skills ever since.
