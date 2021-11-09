@@ -1,4 +1,5 @@
-### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">   <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">(https://github.com/Beatles-without-tea/subscription)
+### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">   <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">
+<a class="github-button" href="https://github.com/Beatles-without-tea" aria-label="Follow @Beatles-without-tea on GitHub">Follow</a>
 
 **About me**
 
