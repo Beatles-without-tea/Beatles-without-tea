@@ -1,10 +1,7 @@
-### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">   <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">
-<a class="github-button" href="https://github.com/Beatles-without-tea" aria-label="Follow @Beatles-without-tea on GitHub">Follow</a>
-
+### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">  
 **About me**
 
-I'm an economics student interested in programming.
-I was introduced to python during my studies and have been expanding my skills ever since.
+I'm Msc student currently studying Econometrics. Most of my work is data related but I'm also learning software development skills in my free time.
 
 
 
@@ -19,6 +16,9 @@ Learning:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" >
 
 <!--
+ <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">
+<a class="github-button" href="https://github.com/Beatles-without-tea" aria-label="Follow @Beatles-without-tea on GitHub">Follow</a>
+
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 Here are some ideas to get you started:
