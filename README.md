@@ -1,8 +1,7 @@
 ### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">  
 **About me**
 
-I'm Msc student currently studying Econometrics, as such most of my work is data related. I've also been learning software development skills in my free time.
-
+I'm Msc student currently studying Econometrics, as such most of my work is data related. Since having started to learn to code in python I've also been expanding my skills beyond the typical data scientist expertise. 
 
 
 **Languages/Tools**
