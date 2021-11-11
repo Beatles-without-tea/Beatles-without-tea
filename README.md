@@ -1,4 +1,4 @@
-### Hey, I'm Max<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">  
+### Hey, I'm Max
 **About me**
 
 I'm an MSc student currently studying Econometrics. As such, most of my work is data related. Since being introduced to python during my studies, I've been expanding my skills beyond the typical data scientist expertise. I hope to continue learning new tools to bring my ideas to fruition.
@@ -17,7 +17,7 @@ Learning:
 <!--
  <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">
 <a class="github-button" href="https://github.com/Beatles-without-tea" aria-label="Follow @Beatles-without-tea on GitHub">Follow</a>
-
+<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60px">  
 **Beatles-without-tea/Beatles-without-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatles-without-tea&count_private=true&show_icons=true)
 Here are some ideas to get you started:
