@@ -1,7 +1,4 @@
 ### Hey, I'm Max
-**About me**
-
-I'm an MSc student currently studying Econometrics. As such, most of my work is data related. Since being introduced to python during my studies, I've been expanding my skills beyond the typical data scientist expertise. I hope to continue learning new tools to bring my ideas to fruition.
 
 
 **Languages/Tools**
