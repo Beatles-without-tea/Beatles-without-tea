@@ -1,15 +1,7 @@
 ### Hey, I'm Max
 
 
-**Languages/Tools**
 
-Proficient:
-
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" > <img	src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
-
-Learning: 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" >
 
 <!--
  <img	src="https://img.shields.io/github/followers/Beatles-without-tea.svg?style=social&label=Follow&maxAge=2592000">
@@ -29,4 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatles-without-tea&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**Languages/Tools**
+
+Proficient:
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" > <img	src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+
+Learning: 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" >
 -->
